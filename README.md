@@ -24,9 +24,9 @@ Here is what I have experience in until now:
 
 ![C++](/assets/c++.svg) C++
 
-<img src="/assets/firebase.png" width="16" height="16" /> Firebase
+<img src="/assets/firebase.png" width="16" height="16" alt="Firebase" /> Firebase
 
-![Git](/assets/git.svg) Git
+<img src="/assets/git.svg" width="16" height="16" alt="Git" /> Git
 
 ## Projects
 
