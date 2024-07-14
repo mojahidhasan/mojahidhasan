@@ -26,6 +26,8 @@ Here is what I have experience in until now:
 
 <img src="/assets/firebase.png" width="16" height="16" /> Firebase
 
+![Git](/assets/git.svg) Git
+
 ## Projects
 
 ### 1
