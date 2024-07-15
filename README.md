@@ -85,7 +85,7 @@ Here is what I have experience in until now:
 
 **My Role:**
 
-This was a project team. My main role was to develop **Backend**. Additionally some help with front-end tasks.
+This was a project team. My main role was to develop **Backend**.
 
 **Collaborators:**
 
