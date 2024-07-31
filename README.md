@@ -79,7 +79,7 @@ Here is what I have experience in until now:
 1. Nextjs v14.2.3
 2. Redux toolkit v2.2.5
 3. Firebase
-4. Authjs v5
+4. NextAuth v5
 5. TailwindCSS v3.4.1
 6. Shadcn UI
 
