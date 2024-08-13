@@ -62,7 +62,7 @@ Here is what I have experience in until now:
 
 ### 2
 
-[rsglobalstyle](https://rsglobalstyle) is a full-stack production-build nextJS e-commerce app for our client that is for selling men's clothing developed with the latest and popular web technologies today such as NextJS, TailwindCSS, etc.
+[rsglobalstyle](https://rsglobalstyle.com) is a full-stack production-build nextJS e-commerce app for our client that is for selling men's clothing developed with the latest and popular web technologies today such as NextJS, TailwindCSS, etc.
 
 **Features:**
 
