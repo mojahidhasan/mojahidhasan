@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mojahidhasan)
+
 ## About me
 
 Hello, I am Mojahid, a self-taught web developer. Expert in front-end and intermediate in back-end. I am experienced in React, Nextjs, and also good at NodeJS as well. I am an expert in JavaScript (my first language) and also good at Python, and have a good understanding of C++. Look below to see my expertise and projects. Thank you.
