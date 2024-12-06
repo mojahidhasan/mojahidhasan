@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello, I am Mojahid, a self-taught web developer. Expert in front-end and intermediate in back-end. I am experienced in React, Nextjs, and also good at NodeJS as well. I am an expert in JavaScript (my first language) and also good at Python, and have a good understanding of C++. Look below to see my expertise and projects. Thank you.
+Hello. I am Mojahid, a self-taught web developer. I am an expert in front-end and intermediate in back-end. I am experienced in React and Nextjs and also good at NodeJS. I am an expert in JavaScript (my first language) and also good at Python and have a good understanding of C++. Look below to see my expertise and projects. Thank you.
  
 Here is what I have experience in until now:
 
@@ -64,7 +64,7 @@ Here is what I have experience in until now:
 
 ### 2
 
-[rsglobalstyle](https://rsglobalstyle.com) is a full-stack production-build nextJS e-commerce app for our client that is for selling men's clothing developed with the latest and popular web technologies today such as NextJS, TailwindCSS, etc.
+[rsglobalstyle](https://rsglobalstyle.com) is a full-stack production-build NextJS e-commerce app for our client, which sells men's clothing. It was developed with the latest and most popular web technologies, such as NextJS, TailwindCSS, etc.
 
 **Features:**
 
